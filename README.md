@@ -1,4 +1,4 @@
-# Hola 👋 I'm Srujan
+# Hola 👋🏼 I'm Srujan
 
 <!--
 **srujaan/srujaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
